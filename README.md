@@ -1,3 +1,8 @@
 # Guessing number agent
 Guessing number agent to the intelligent system's class
-developed by @lotalorafox
+
+Developed by 
+
+@lotalorafox - @leotalorac 
+
+[Github](https://github.com/leotalorac)
